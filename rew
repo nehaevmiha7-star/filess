@@ -1,0 +1,1997 @@
+SupremeShirt1 =         {
+            Content = SupremeShirt1,
+            Context = "Коричневый Монограммный Свитер 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 444444,
+                    [2] = 666666,
+                },
+                Stock =                 {
+                    [1] = 555555,
+                    [2] = 777777,
+                },
+            },
+        },
+        SupremeShirt10 =         {
+            Content = SupremeShirt10,
+            Context = "Коричневая Футболка 666 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 26666,
+                    [2] = 36666,
+                },
+                Stock =                 {
+                    [1] = 26666,
+                    [2] = 36666,
+                },
+            },
+        },
+        SupremeShirt11 =         {
+            Content = SupremeShirt11,
+            Context = "Чёрная Футболка Anarchy 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 9500,
+                    [2] = 14444,
+                },
+                Stock =                 {
+                    [1] = 11742,
+                    [2] = 15000,
+                },
+            },
+        },
+        SupremeShirt12 =         {
+            Content = SupremeShirt12,
+            Context = "Чёрная Карго Куртка 'Supreme X TNF'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 24000,
+                    [2] = 32000,
+                },
+                Stock =                 {
+                    [1] = 25000,
+                    [2] = 37000,
+                },
+            },
+        },
+        SupremeShirt13 =         {
+            Content = SupremeShirt13,
+            Context = "Берюзовая Худи Motion Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 33333,
+                    [2] = 45555,
+                },
+                Stock =                 {
+                    [1] = 38265,
+                    [2] = 48265,
+                },
+            },
+        },
+        SupremeShirt14 =         {
+            Content = SupremeShirt14,
+            Context = "Коричневая Футболка Bandana Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 33333,
+                    [2] = 48888,
+                },
+                Stock =                 {
+                    [1] = 39965,
+                    [2] = 51111,
+                },
+            },
+        },
+        SupremeShirt15 =         {
+            Content = SupremeShirt15,
+            Context = "Чёрная Футболка Bandana Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 33333,
+                    [2] = 48888,
+                },
+                Stock =                 {
+                    [1] = 39965,
+                    [2] = 51111,
+                },
+            },
+        },
+        SupremeShirt16 =         {
+            Content = SupremeShirt16,
+            Context = "Тёмно Синяя Футболка Bandana Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 33333,
+                    [2] = 48888,
+                },
+                Stock =                 {
+                    [1] = 39965,
+                    [2] = 51111,
+                },
+            },
+        },
+        SupremeShirt17 =         {
+            Content = SupremeShirt17,
+            Context = "Принт Худи 8-Ball 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 25000,
+                    [2] = 34444,
+                },
+                Stock =                 {
+                    [1] = 27318,
+                    [2] = 35000,
+                },
+            },
+        },
+        SupremeShirt18 =         {
+            Content = SupremeShirt18,
+            Context = "Принт Свитшот Scatter Text 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 10400,
+                    [2] = 15555,
+                },
+                Stock =                 {
+                    [1] = 12400,
+                    [2] = 16666,
+                },
+            },
+        },
+        SupremeShirt19 =         {
+            Content = SupremeShirt19,
+            Context = "Белая Футболка Bling 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 16666,
+                    [2] = 23333,
+                },
+                Stock =                 {
+                    [1] = 18743,
+                    [2] = 24444,
+                },
+            },
+        },
+        SupremeShirt2 =         {
+            Content = SupremeShirt2,
+            Context = "Чёрная Куртка Varsity 'Supreme X NY Yankees'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 105000,
+                    [2] = 130000,
+                },
+                Stock =                 {
+                    [1] = 116831,
+                    [2] = 136831,
+                },
+            },
+        },
+        SupremeShirt20 =         {
+            Content = SupremeShirt20,
+            Context = "Зелёная Футболка Killer Trust 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 17500,
+                    [2] = 24000,
+                },
+                Stock =                 {
+                    [1] = 19375,
+                    [2] = 25000,
+                },
+            },
+        },
+        SupremeShirt21 =         {
+            Content = SupremeShirt21,
+            Context = "Белая Футболка Headline 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 5555,
+                    [2] = 8000,
+                },
+                Stock =                 {
+                    [1] = 6103,
+                    [2] = 8500,
+                },
+            },
+        },
+        SupremeShirt22 =         {
+            Content = SupremeShirt22,
+            Context = "Белая Футболка Creeper 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 14500,
+                    [2] = 19500,
+                },
+                Stock =                 {
+                    [1] = 16027,
+                    [2] = 21111,
+                },
+            },
+        },
+        SupremeShirt23 =         {
+            Content = SupremeShirt23,
+            Context = "Красный Свитшот Arc Logo 'Supreme X Louis Vuitton'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 90000,
+                    [2] = 125000,
+                },
+                Stock =                 {
+                    [1] = 100000,
+                    [2] = 135000,
+                },
+            },
+        },
+        SupremeShirt24 =         {
+            Content = SupremeShirt24,
+            Context = "Чёрный Свитер 'Supreme X CDG'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 63333,
+                    [2] = 80000,
+                },
+                Stock =                 {
+                    [1] = 69846,
+                    [2] = 85000,
+                },
+            },
+        },
+        SupremeShirt25 =         {
+            Content = SupremeShirt25,
+            Context = "Бежевый Свитер 'Supreme X CDG'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 63333,
+                    [2] = 80000,
+                },
+                Stock =                 {
+                    [1] = 69846,
+                    [2] = 85000,
+                },
+            },
+        },
+        SupremeShirt26 =         {
+            Content = SupremeShirt26,
+            Context = "Чёрная Куртка BAMN 'Supreme X TNF'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 48000,
+                    [2] = 63333,
+                },
+                Stock =                 {
+                    [1] = 53378,
+                    [2] = 65000,
+                },
+            },
+        },
+        SupremeShirt27 =         {
+            Content = SupremeShirt27,
+            Context = "Бирюзовая Футболка 'Supreme X Thrasher'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 13500,
+                    [2] = 19000,
+                },
+                Stock =                 {
+                    [1] = 14531,
+                    [2] = 20000,
+                },
+            },
+        },
+        SupremeShirt28 =         {
+            Content = SupremeShirt28,
+            Context = "Жёлтая Футболка 'Supreme X Thrasher'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 13500,
+                    [2] = 19000,
+                },
+                Stock =                 {
+                    [1] = 14531,
+                    [2] = 20000,
+                },
+            },
+        },
+        SupremeShirt29 =         {
+            Content = SupremeShirt29,
+            Context = "Принт Худи B&S 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 25000,
+                    [2] = 34444,
+                },
+                Stock =                 {
+                    [1] = 27000,
+                    [2] = 35555,
+                },
+            },
+        },
+        SupremeShirt3 =         {
+            Content = SupremeShirt3,
+            Context = "Белый Свитшот Arabic 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 29000,
+                    [2] = 41111,
+                },
+                Stock =                 {
+                    [1] = 31028,
+                    [2] = 41111,
+                },
+            },
+        },
+        SupremeShirt30 =         {
+            Content = SupremeShirt30,
+            Context = "Чёрный Свитер Acid Wash 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 24000,
+                    [2] = 33333,
+                },
+                Stock =                 {
+                    [1] = 26815,
+                    [2] = 37000,
+                },
+            },
+        },
+        SupremeShirt31 =         {
+            Content = SupremeShirt31,
+            Context = "Красная худи Label 'Supreme X Champion'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 17000,
+                    [2] = 26666,
+                },
+                Stock =                 {
+                    [1] = 19375,
+                    [2] = 28000,
+                },
+            },
+        },
+        SupremeShirt32 =         {
+            Content = SupremeShirt32,
+            Context = "Чёрная Куртка Dragon Works 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 55555,
+                    [2] = 67777,
+                },
+                Stock =                 {
+                    [1] = 58609,
+                    [2] = 70000,
+                },
+            },
+        },
+        SupremeShirt33 =         {
+            Content = SupremeShirt33,
+            Context = "Жёлтая Футболка Smile 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 30000,
+                    [2] = 38888,
+                },
+                Stock =                 {
+                    [1] = 33333,
+                    [2] = 38888,
+                },
+            },
+        },
+        SupremeShirt34 =         {
+            Content = SupremeShirt34,
+            Context = "Розовая Футболка Bandana Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 33333,
+                    [2] = 48888,
+                },
+                Stock =                 {
+                    [1] = 39000,
+                    [2] = 51111,
+                },
+            },
+        },
+        SupremeShirt35 =         {
+            Content = SupremeShirt35,
+            Context = "Чёрная Куртка Varsity 'Supreme X Champion'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 75000,
+                    [2] = 95000,
+                },
+                Stock =                 {
+                    [1] = 81077,
+                    [2] = 110000,
+                },
+            },
+        },
+        SupremeShirt36 =         {
+            Content = SupremeShirt36,
+            Context = "Голубая Худи Cat In The Hat 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 11111,
+                    [2] = 16000,
+                },
+                Stock =                 {
+                    [1] = 12690,
+                    [2] = 16666,
+                },
+            },
+        },
+        SupremeShirt37 =         {
+            Content = SupremeShirt37,
+            Context = "Белая Куртка Reversible 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 66666,
+                    [2] = 75000,
+                },
+                Stock =                 {
+                    [1] = 67715,
+                    [2] = 80000,
+                },
+            },
+        },
+        SupremeShirt38 =         {
+            Content = SupremeShirt38,
+            Context = "Белый Свитшот Waffle Thermal 'Supreme X NY'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 9000,
+                    [2] = 14500,
+                },
+                Stock =                 {
+                    [1] = 10656,
+                    [2] = 14500,
+                },
+            },
+        },
+        SupremeShirt39 =         {
+            Content = SupremeShirt39,
+            Context = "Жёлтый Свитшот Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 25000,
+                    [2] = 35000,
+                },
+                Stock =                 {
+                    [1] = 27000,
+                    [2] = 36000,
+                },
+            },
+        },
+        SupremeShirt4 =         {
+            Content = SupremeShirt4,
+            Context = "Худи 'Supreme X True Religion'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 73333,
+                    [2] = 87777,
+                },
+                Stock =                 {
+                    [1] = 79000,
+                    [2] = 89000,
+                },
+            },
+        },
+        SupremeShirt40 =         {
+            Content = SupremeShirt40,
+            Context = "Пурпурный Свитшот Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 25000,
+                    [2] = 35000,
+                },
+                Stock =                 {
+                    [1] = 27000,
+                    [2] = 36000,
+                },
+            },
+        },
+        SupremeShirt41 =         {
+            Content = SupremeShirt41,
+            Context = "Болотная Футболка Life Suck Die 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 14500,
+                    [2] = 18500,
+                },
+                Stock =                 {
+                    [1] = 15000,
+                    [2] = 20000,
+                },
+            },
+        },
+        SupremeShirt42 =         {
+            Content = SupremeShirt42,
+            Context = "Пурпурная Футболка Still Life 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 14500,
+                    [2] = 18500,
+                },
+                Stock =                 {
+                    [1] = 15000,
+                    [2] = 20000,
+                },
+            },
+        },
+        SupremeShirt43 =         {
+            Content = SupremeShirt43,
+            Context = "Белая Футболка Split Box Logo 'Supreme X CDG'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 31000,
+                    [2] = 39500,
+                },
+                Stock =                 {
+                    [1] = 31000,
+                    [2] = 45000,
+                },
+            },
+        },
+        SupremeShirt44 =         {
+            Content = SupremeShirt44,
+            Context = "Зелёная Худи Arabic 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 26000,
+                    [2] = 38500,
+                },
+                Stock =                 {
+                    [1] = 29256,
+                    [2] = 40000,
+                },
+            },
+        },
+        SupremeShirt45 =         {
+            Content = SupremeShirt45,
+            Context = "Синий Свитер Hate 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 30000,
+                    [2] = 41111,
+                },
+                Stock =                 {
+                    [1] = 33906,
+                    [2] = 45000,
+                },
+            },
+        },
+        SupremeShirt46 =         {
+            Content = SupremeShirt46,
+            Context = "Белая Футболка Box Logo 'Supreme X Bape'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Legendary = true,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 275000,
+                    [2] = 370000,
+                },
+                Stock =                 {
+                    [1] = 290625,
+                    [2] = 400000,
+                },
+            },
+        },
+        SupremeShirt47 =         {
+            Content = SupremeShirt47,
+            Context = "Синий Свитшот SUP 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 30000,
+                    [2] = 43333,
+                },
+                Stock =                 {
+                    [1] = 33906,
+                    [2] = 43333,
+                },
+            },
+        },
+        SupremeShirt48 =         {
+            Content = SupremeShirt48,
+            Context = "Белая Футболка Gradient Arc Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 13500,
+                    [2] = 19500,
+                },
+                Stock =                 {
+                    [1] = 15000,
+                    [2] = 22222,
+                },
+            },
+        },
+        SupremeShirt49 =         {
+            Content = SupremeShirt48,
+            Context = "Бирюзовая Футболка Gradient Arc Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 13500,
+                    [2] = 19500,
+                },
+                Stock =                 {
+                    [1] = 15000,
+                    [2] = 22222,
+                },
+            },
+        },
+        SupremeShirt5 =         {
+            Content = SupremeShirt5,
+            Context = "Тёмно Синяя Худи Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 45000,
+                    [2] = 60000,
+                },
+                Stock =                 {
+                    [1] = 47856,
+                    [2] = 69999,
+                },
+            },
+        },
+        SupremeShirt50 =         {
+            Content = SupremeShirt50,
+            Context = "Белая Худи Landscape 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 22500,
+                    [2] = 28500,
+                },
+                Stock =                 {
+                    [1] = 24000,
+                    [2] = 29000,
+                },
+            },
+        },
+        SupremeShirt51 =         {
+            Content = SupremeShirt51,
+            Context = "Красный Свитшот Diagonal Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 48500,
+                    [2] = 62500,
+                },
+                Stock =                 {
+                    [1] = 52000,
+                    [2] = 66666,
+                },
+            },
+        },
+        SupremeShirt52 =         {
+            Content = SupremeShirt52,
+            Context = "Жёлтая Футболка Swimmers 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 24000,
+                    [2] = 28500,
+                },
+                Stock =                 {
+                    [1] = 25000,
+                    [2] = 32000,
+                },
+            },
+        },
+        SupremeShirt53 =         {
+            Content = SupremeShirt53,
+            Context = "Розовая Футболка Rocks 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 9000,
+                    [2] = 12500,
+                },
+                Stock =                 {
+                    [1] = 9500,
+                    [2] = 13500,
+                },
+            },
+        },
+        SupremeShirt54 =         {
+            Content = SupremeShirt54,
+            Context = "Белая Футболка Ganesha 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 23000,
+                    [2] = 26000,
+                },
+                Stock =                 {
+                    [1] = 23000,
+                    [2] = 29500,
+                },
+            },
+        },
+        SupremeShirt55 =         {
+            Content = SupremeShirt55,
+            Context = "Фиолетовая Футболка Gonz 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 13500,
+                    [2] = 18500,
+                },
+                Stock =                 {
+                    [1] = 15000,
+                    [2] = 20000,
+                },
+            },
+        },
+        SupremeShirt56 =         {
+            Content = SupremeShirt56,
+            Context = "Жёлтая Футболка Mona Lisa 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 27000,
+                    [2] = 37000,
+                },
+                Stock =                 {
+                    [1] = 30000,
+                    [2] = 45000,
+                },
+            },
+        },
+        SupremeShirt57 =         {
+            Content = SupremeShirt57,
+            Context = "Красная Футболка Tentacles 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 18000,
+                    [2] = 23500,
+                },
+                Stock =                 {
+                    [1] = 19000,
+                    [2] = 24500,
+                },
+            },
+        },
+        SupremeShirt58 =         {
+            Content = SupremeShirt58,
+            Context = "Принт Футболка Hardware 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 25000,
+                    [2] = 36500,
+                },
+                Stock =                 {
+                    [1] = 27000,
+                    [2] = 38000,
+                },
+            },
+        },
+        SupremeShirt59 =         {
+            Content = SupremeShirt59,
+            Context = "Красный Свитшот Bevel 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 18500,
+                    [2] = 26000,
+                },
+                Stock =                 {
+                    [1] = 21000,
+                    [2] = 27000,
+                },
+            },
+        },
+        SupremeShirt6 =         {
+            Content = SupremeShirt6,
+            Context = "Болотно-Коричневый Свитшот Split 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 28000,
+                    [2] = 35000,
+                },
+                Stock =                 {
+                    [1] = 28965,
+                    [2] = 38000,
+                },
+            },
+        },
+        SupremeShirt60 =         {
+            Content = SupremeShirt60,
+            Context = "Жёлтая Футболка MLK Dream 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 6000,
+                    [2] = 10000,
+                },
+                Stock =                 {
+                    [1] = 7500,
+                    [2] = 10500,
+                },
+            },
+        },
+        SupremeShirt61 =         {
+            Content = SupremeShirt61,
+            Context = "Чёрная Футболка Cat 'Supreme X Spitfire'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 12500,
+                    [2] = 16500,
+                },
+                Stock =                 {
+                    [1] = 13562,
+                    [2] = 17000,
+                },
+            },
+        },
+        SupremeShirt62 =         {
+            Content = SupremeShirt62,
+            Context = "Пурпурный Свитшот Jacquard Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 5500,
+                    [2] = 7777,
+                },
+                Stock =                 {
+                    [1] = 6000,
+                    [2] = 8500,
+                },
+            },
+        },
+        SupremeShirt63 =         {
+            Content = SupremeShirt63,
+            Context = "Чёрный Свитшот Jacquard Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 5500,
+                    [2] = 7777,
+                },
+                Stock =                 {
+                    [1] = 6000,
+                    [2] = 8500,
+                },
+            },
+        },
+        SupremeShirt64 =         {
+            Content = SupremeShirt64,
+            Context = "Салатовый Свитшот Jacquard Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 5500,
+                    [2] = 7777,
+                },
+                Stock =                 {
+                    [1] = 6000,
+                    [2] = 8500,
+                },
+            },
+        },
+        SupremeShirt65 =         {
+            Content = SupremeShirt65,
+            Context = "Белая Футболка Brooklyn Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 20000,
+                    [2] = 26666,
+                },
+                Stock =                 {
+                    [1] = 21500,
+                    [2] = 27500,
+                },
+            },
+        },
+        SupremeShirt66 =         {
+            Content = SupremeShirt66,
+            Context = "Белая Футболка Sade 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 24000,
+                    [2] = 35000,
+                },
+                Stock =                 {
+                    [1] = 27000,
+                    [2] = 42000,
+                },
+            },
+        },
+        SupremeShirt67 =         {
+            Content = SupremeShirt67,
+            Context = "Чёрная Рубашка 'Supreme X Lacoste'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 24000,
+                    [2] = 32000,
+                },
+                Stock =                 {
+                    [1] = 25000,
+                    [2] = 35000,
+                },
+            },
+        },
+        SupremeShirt68 =         {
+            Content = SupremeShirt68,
+            Context = "Белая Худи Logo 'Supreme X Mont Blanc'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 14500,
+                    [2] = 19500,
+                },
+                Stock =                 {
+                    [1] = 16000,
+                    [2] = 21200,
+                },
+            },
+        },
+        SupremeShirt69 =         {
+            Content = SupremeShirt69,
+            Context = "Белая Футболка Sport 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 7000,
+                    [2] = 9000,
+                },
+                Stock =                 {
+                    [1] = 7750,
+                    [2] = 9500,
+                },
+            },
+        },
+        SupremeShirt7 =         {
+            Content = SupremeShirt7,
+            Context = "Красная Куртка Satin Varsity 'Supreme X Champion'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 70000,
+                    [2] = 95000,
+                },
+                Stock =                 {
+                    [1] = 81077,
+                    [2] = 110000,
+                },
+            },
+        },
+        SupremeShirt70 =         {
+            Content = SupremeShirt70,
+            Context = "Куртка Пуффер Statue Of Liberty 'Supreme X TNF'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 63333,
+                    [2] = 83333,
+                },
+                Stock =                 {
+                    [1] = 70000,
+                    [2] = 87000,
+                },
+            },
+        },
+        SupremeShirt71 =         {
+            Content = SupremeShirt71,
+            Context = "Красная Футболка Anarchy 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 9500,
+                    [2] = 14444,
+                },
+                Stock =                 {
+                    [1] = 11742,
+                    [2] = 15000,
+                },
+            },
+        },
+        SupremeShirt72 =         {
+            Content = SupremeShirt72,
+            Context = "Чёрное Худи Logo 'Supreme X Mont Blanc'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 14500,
+                    [2] = 19500,
+                },
+                Stock =                 {
+                    [1] = 16000,
+                    [2] = 21200,
+                },
+            },
+        },
+        SupremeShirt73 =         {
+            Content = SupremeShirt73,
+            Context = "Белый Костюм 'Supreme X Brooks Brothers'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 53500,
+                    [2] = 64500,
+                },
+                Stock =                 {
+                    [1] = 55000,
+                    [2] = 66666,
+                },
+            },
+        },
+        SupremeShirt74 =         {
+            Content = SupremeShirt74,
+            Context = "Розовый Свитшот 'Supreme X Lacoste'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 50000,
+                    [2] = 58000,
+                },
+                Stock =                 {
+                    [1] = 50000,
+                    [2] = 69000,
+                },
+            },
+        },
+        SupremeShirt75 =         {
+            Content = SupremeShirt75,
+            Context = "Салатовый Свитшот 'Supreme X Lacoste'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 50000,
+                    [2] = 58000,
+                },
+                Stock =                 {
+                    [1] = 50000,
+                    [2] = 69000,
+                },
+            },
+        },
+        SupremeShirt76 =         {
+            Content = SupremeShirt76,
+            Context = "Чёрная Футболка 'Supreme X Anti Hero'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 12500,
+                    [2] = 15750,
+                },
+                Stock =                 {
+                    [1] = 13250,
+                    [2] = 16500,
+                },
+            },
+        },
+        SupremeShirt77 =         {
+            Content = SupremeShirt77,
+            Context = "Белая Футболка 'Supreme X Anti Hero'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 12500,
+                    [2] = 15750,
+                },
+                Stock =                 {
+                    [1] = 13250,
+                    [2] = 16500,
+                },
+            },
+        },
+        SupremeShirt78 =         {
+            Content = SupremeShirt78,
+            Context = "Красная Куртка IBCA 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 184000,
+                    [2] = 225000,
+                },
+                Stock =                 {
+                    [1] = 190000,
+                    [2] = 235000,
+                },
+            },
+        },
+        SupremeShirt79 =         {
+            Content = SupremeShirt79,
+            Context = "Синяя Футболка 'Supreme X Public Enemy X UNDERCOVER'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 15000,
+                    [2] = 20000,
+                },
+                Stock =                 {
+                    [1] = 17000,
+                    [2] = 23000,
+                },
+            },
+        },
+        SupremeShirt8 =         {
+            Content = SupremeShirt8,
+            Context = "Чёрная Футболка Chrome 'Supreme X Champion'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 9500,
+                    [2] = 14500,
+                },
+                Stock =                 {
+                    [1] = 11043,
+                    [2] = 15043,
+                },
+            },
+        },
+        SupremeShirt80 =         {
+            Content = SupremeShirt80,
+            Context = "Белая Футболка Nagoya Opening Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 170000,
+                    [2] = 220000,
+                },
+                Stock =                 {
+                    [1] = 175312,
+                    [2] = 245000,
+                },
+            },
+        },
+        SupremeShirt81 =         {
+            Content = SupremeShirt81,
+            Context = "Серая Футболка Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 41500,
+                    [2] = 52000,
+                },
+                Stock =                 {
+                    [1] = 45000,
+                    [2] = 54000,
+                },
+            },
+        },
+        SupremeShirt82 =         {
+            Content = SupremeShirt82,
+            Context = "Коричневый Свитшот Karate 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 8750,
+                    [2] = 11750,
+                },
+                Stock =                 {
+                    [1] = 9500,
+                    [2] = 12500,
+                },
+            },
+        },
+        SupremeShirt83 =         {
+            Content = SupremeShirt83,
+            Context = "Серая Футболка Blimp 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 20000,
+                    [2] = 28500,
+                },
+                Stock =                 {
+                    [1] = 23000,
+                    [2] = 30000,
+                },
+            },
+        },
+        SupremeShirt84 =         {
+            Content = SupremeShirt84,
+            Context = "Голубая Футболка Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 41500,
+                    [2] = 52000,
+                },
+                Stock =                 {
+                    [1] = 45000,
+                    [2] = 54000,
+                },
+            },
+        },
+        SupremeShirt85 =         {
+            Content = SupremeShirt85,
+            Context = " 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 12500,
+                    [2] = 17500,
+                },
+                Stock =                 {
+                    [1] = 14000,
+                    [2] = 18500,
+                },
+            },
+        },
+        SupremeShirt86 =         {
+            Content = SupremeShirt86,
+            Context = "Жёлтая Футболка Monogram Box Logo 'Supreme X LV'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 133333,
+                    [2] = 158888,
+                },
+                Stock =                 {
+                    [1] = 140000,
+                    [2] = 170000,
+                },
+            },
+        },
+        SupremeShirt87 =         {
+            Content = SupremeShirt87,
+            Context = "Бордовая Футболка Gucci Box Logo 'Supreme X Gucci'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 67000,
+                    [2] = 87000,
+                },
+                Stock =                 {
+                    [1] = 72656,
+                    [2] = 95000,
+                },
+            },
+        },
+        SupremeShirt88 =         {
+            Content = SupremeShirt88,
+            Context = "Чёрная Футболка Bullet Box Logo 'Supreme X Nate Lowman'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 100000,
+                    [2] = 120000,
+                },
+                Stock =                 {
+                    [1] = 100000,
+                    [2] = 140000,
+                },
+            },
+        },
+        SupremeShirt89 =         {
+            Content = SupremeShirt89,
+            Context = "Белая Футболка Shibuya Opening Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 1, 0.584314, 0,
+            Legendary = true,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 178000,
+                    [2] = 220000,
+                },
+                Stock =                 {
+                    [1] = 190000,
+                    [2] = 235000,
+                },
+            },
+        },
+        SupremeShirt9 =         {
+            Content = SupremeShirt9,
+            Context = "Белая Футболка Kanji 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 20000,
+                    [2] = 32222,
+                },
+                Stock =                 {
+                    [1] = 24703,
+                    [2] = 31111,
+                },
+            },
+        },
+        SupremeShirt90 =         {
+            Content = SupremeShirt90,
+            Context = "Белая Футболка Japan Benefit Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 73000,
+                    [2] = 95000,
+                },
+                Stock =                 {
+                    [1] = 83000,
+                    [2] = 100000,
+                },
+            },
+        },
+        SupremeShirt91 =         {
+            Content = SupremeShirt91,
+            Context = "Камуфляжное Худи Bape Box Logo 'Supreme X Logo'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 85000,
+                    [2] = 99999,
+                },
+                Stock =                 {
+                    [1] = 89000,
+                    [2] = 99000,
+                },
+            },
+        },
+        SupremeShirt92 =         {
+            Content = SupremeShirt92,
+            Context = "Чёрное Худи Gonz Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 30000,
+                    [2] = 38500,
+                },
+                Stock =                 {
+                    [1] = 30000,
+                    [2] = 45000,
+                },
+            },
+        },
+        SupremeShirt93 =         {
+            Content = SupremeShirt93,
+            Context = "Серое Худи Box Logo 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 29000,
+                    [2] = 38500,
+                },
+                Stock =                 {
+                    [1] = 30000,
+                    [2] = 43500,
+                },
+            },
+        },
+        SupremeShirt94 =         {
+            Content = SupremeShirt94,
+            Context = "Белая Футболка Diamonds 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 24000,
+                    [2] = 32000,
+                },
+                Stock =                 {
+                    [1] = 26000,
+                    [2] = 33000,
+                },
+            },
+        },
+        SupremeShirt95 =         {
+            Content = SupremeShirt95,
+            Context = "Фиолетовая Футболка TV 'Supreme'",
+            FakeColor = 0.647059, 0.647059, 0.647059,
+            FakeWeight =             {
+                [1] = 0,
+                [2] = 100,
+            },
+            FrameColor = 0.47451, 0.0117647, 1,
+            Luxury = true,
+            Price =             {
+                Resell =                 {
+                    [1] = 15000,
+                    [2] = 20000,
+                },
+                Stock =                 {
+                    [1] = 15000,
+                    [2] = 20000,
+                },
+            },
+        },
