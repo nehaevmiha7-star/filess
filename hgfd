@@ -15,6 +15,14 @@ local SCRIPTS_BY_GAME = {
         name = "Flick",
         url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/fdsfds"
     },
+    [6608498361] = {
+        name = "Cursed Tank Simulator",
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/savo"
+    },
+    [6925857548] = {
+        name = "Cursed Tank Simulator",
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/savo"
+    }
 }
 
 local function UniversalHttpGet(url)
@@ -82,13 +90,15 @@ if gameType then
             warn("[Loader] Ошибка loadstring:", lerr)
         end
     else
-        -- Т
+        -- Fallback для каждой игры
         if gameType.name == "Casual Stock" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/fdffFFFF"))()
         elseif gameType.name == "Lost Front" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/123"))()
         elseif gameType.name == "Flick" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/fdsfds"))()
+        elseif gameType.name == "Cursed Tank Simulator" then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/savo"))()
         end
     end
 else
