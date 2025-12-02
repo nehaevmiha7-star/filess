@@ -22,6 +22,24 @@ local SCRIPTS_BY_GAME = {
     [6925857548] = {
         name = "Cursed Tank Simulator",
         url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/savo"
+    },
+    -- Counter Blox
+    [1869597719] = {
+        name = "Counter Blox",
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/321"
+    },
+    [301549746] = {
+        name = "Counter Blox",
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/321"
+    },
+    [1480424328] = {
+        name = "Counter Blox",
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/321"
+    },
+    -- The Lost Front
+    [82702369391395] = {
+        name = "The Lost Front",
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/123"
     }
 }
 
@@ -93,12 +111,14 @@ if gameType then
         -- Fallback для каждой игры
         if gameType.name == "Casual Stock" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/fdffFFFF"))()
-        elseif gameType.name == "Lost Front" then
+        elseif gameType.name == "Lost Front" or gameType.name == "The Lost Front" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/123"))()
         elseif gameType.name == "Flick" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/fdsfds"))()
         elseif gameType.name == "Cursed Tank Simulator" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/savo"))()
+        elseif gameType.name == "Counter Blox" then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/321"))()
         end
     end
 else
