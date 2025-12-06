@@ -44,7 +44,7 @@ local SCRIPTS_BY_GAME = {
     -- VIOLENCE DISTRICT
     [93978595733734] = {
         name = "VIOLENCE DISTRICT",
-        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/viloance%20distrcewwf"
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/bait%20violance"
     }
 }
 
