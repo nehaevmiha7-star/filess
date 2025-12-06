@@ -40,6 +40,11 @@ local SCRIPTS_BY_GAME = {
     [82702369391395] = {
         name = "The Lost Front",
         url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/123"
+    },
+    -- VIOLENCE DISTRICT
+    [93978595733734] = {
+        name = "VIOLENCE DISTRICT",
+        url = "https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/viloance%20distrcewwf"
     }
 }
 
@@ -119,6 +124,8 @@ if gameType then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/savo"))()
         elseif gameType.name == "Counter Blox" then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/321"))()
+        elseif gameType.name == "VIOLENCE DISTRICT" then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/nehaevmiha7-star/filess/refs/heads/main/viloance%20distrcewwf"))()
         end
     end
 else
